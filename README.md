@@ -1,9 +1,13 @@
 This project is a front-end clone of Amazon's homepage built using HTML and CSS.
 The goal of this project is to replicate the look and feel of the Amazon homepage website while practicing web development skills.
 
+
 Technologies Used :
+
 HTML: Structure of the web page
+
 CSS: Styling and layout
+
 Font Awesome: Icons used in the project
 
 
